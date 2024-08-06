@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 💫 About Me:
+# 💫 Hi there 👋,
 👨‍🎓 Studying Electrical Automation Engineering at the Sepuluh Nopember Institute of Technology, Indonesia<br>💭 Currently learning about Cross Platform Programming and Machine Learning!
 
 
